@@ -1,0 +1,46 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css");
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+    background-color: #5CFF72;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+
+}
+body{
+    background-color: #006973;
+}
+.glyphicon{
+	font-size: 30px;
+	color: #006973; 
+}
+
+.center{
+	width: 90%;
+	background-color: #fff;
+
+}
+.container
+{
+	background-color: #5CFF72;
+    text-align: justify;
+    color: #000;
+}
+.text-center{
+	color:oldlace ;
+    font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+    color: #fff;
+}
+.navbar-brand{
+font-size: 30px;	
+}
